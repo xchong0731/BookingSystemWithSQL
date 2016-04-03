@@ -1,0 +1,24 @@
+Booking System with MySql project
+
+Team Members: Jiao wang, Rui Zhang, Xusihui Chong
+Repository on Github: https://github.com/RZAmber/BookingSystemWithSQL
+
+Proposal
+Our object is to create a hotel booking system, which can provide the customer a convenient way to booking a room without make a phone call or send email to the frontdesk of the hotel, and also provide an efficient and security way to manager.
+
+Based on B/S, we will divide project into two parts: frontdesk and background which serves for customer and manager respectively.
+Frontdesk:
+     member: book room and check situation
+     manager: manage member information,  booking bill, starting time and ending time
+Background:
+     room information: manager can add or delete the property of rooms, such as  floor, room number.
+     bill management: manager can add, delete or check the booking bill of  member.
+     system maintenance: manager can delete or change member.
+     
+ 3 steps:
+1. Create hotel database management system.We assume it has 3 tables
+
+2. Create Java project to finish the display and interactive part.
+
+3. Use JDBC connect java and MySQL database.
+
